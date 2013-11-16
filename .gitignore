@@ -1,6 +1,18 @@
-*.class
+Start.java
+paulscode
+net
+ibxm
+assets/forge/
+cpw/
+deobfuscation_data-1.6.4.lzma
+fml_at.cfg
+fml_marker.cfg
+fmlversion.properties
+forge_at.cfg
+forge_logo.png
+mcpmod.info
 
-# Package Files #
+*.class
 *.jar
 *.war
 *.ear
