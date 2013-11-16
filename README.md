@@ -4,7 +4,7 @@ RadioCraft
 What is RadioCraft?
 -------------------
 
-RadioCraft is a mod created by Sha`Bren, Akira`kun, Sato`kun,
+RadioCraft is a mod created by Sha\`Bren, Akira\`kun, Sato\`kun,
 and Ryokoshu. The intent is to bring voice chat to Minecraft
 through the use of in-game radios. It is currently in the 
 very early stages of development.
